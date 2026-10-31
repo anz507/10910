@@ -1,12 +1,18 @@
 # 10910
 
-A 29 keys unibody keyboard. 3 Rows staggered.
+A 29-key unibody keyboard with a 3-row staggered layout, designed for handwiring.
 
-Two cases available, 3d printed or folded steel plate.
+## Features
 
-For handwire build.
+- **29 keys**, unibody, 3-row staggered
+- **Handwire build**: no custom PCB required
+- **Two case options**:
+  - 3D printed
+  - Folded steel plate
 
-About the unusual 1.5u at the center, is because I didn't want to have empty space and also keep the stagger due to the insertion of space key on the bottom.
+## Layout Notes
+
+The 1.5u key in the center is intentional. It fills what would otherwise be an empty gap and keeps the row stagger intact, which leaves room for the space key on the bottom row.
 
 ## Keymaps
 ![Keymap](https://anz507.sirv.com/Images/10910-keymap.svg)
