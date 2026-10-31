@@ -1,0 +1,3 @@
+[submodule "zmkfirmware"]
+	path = zmkfirmware
+	url = git@github.com:anz507/zmk-config-10910.git
